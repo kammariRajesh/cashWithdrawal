@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.list-item {
+  width: 45%;
+  padding: 10px;
+  background-color: #585076;
+  border: 1px solid #c4c4c4;
+}

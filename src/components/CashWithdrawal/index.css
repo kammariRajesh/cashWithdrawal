@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #150b3e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+.span-square {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  border-radius: 50px;
+  padding: 5px;
+}
+.prg {
+  color: #d4d2db;
+}
+.heading1 {
+  color: #585076;
+}
+.heading2 {
+  color: #ffffff;
+}
+.card1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.card2 {
+  display: flex;
+  justify-content: space-between;
+}
+.card3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.card4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
